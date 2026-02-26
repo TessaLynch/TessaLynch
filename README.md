@@ -6,15 +6,13 @@ ITS Help Desk Technician at SDSU
 Tech Team Member, Kappa Delta
 Board Member, World Computing Organization (SDSU)
 
-About Me
+#About Me
 
 I’m a sophomore at San Diego State University studying Computer Science with a minor in Business Administration. I’m interested in the intersection of technology and business, and I enjoy solving complex problems through practical, well-structured solutions.
 
 Through my coursework, campus involvement, and work experience, I’ve developed strong technical foundations along with communication and leadership skills. 
 
-Technical Skills
-
-Languages
+#Languages
 
 Java
 
@@ -38,7 +36,7 @@ Debugging & Testing
 
 Basic Web Development
 
-Interests
+#Interests
 
 Software development
 
